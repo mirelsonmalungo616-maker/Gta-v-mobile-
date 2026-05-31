@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Cidade Aberta",
+  "description": "Um jogo de mundo aberto 3D com carros da vida real, compra de casas, mini-mapa, armas e exploração de uma bela cidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
